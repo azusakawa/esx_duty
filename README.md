@@ -1,19 +1,12 @@
 # esx_duty
 
-[REQUIREMENTS]
-  
-* ESX Jobs Support
-  * esx_policejob => https://github.com/ESX-Org/esx_policejob
-  * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
-  * pNotify => https://github.com/Nick78111/pNotify
-  
-[INSTALLATION]
+## Install
+```
+start esx_duty
+```
 
-1) CD in your resources/[esx] folder
+## YouTube Channel
+https://www.youtube.com/channel/UCCk-9RN-OSpMcLxS2UtOoZg?view_as=subscriber
 
-2) Import ``jobs.sql`` in your database
-
-3) Add this in your server.cfg :
-``start esx_duty``
-
-lua
+## Discord
+https://discord.gg/VutrhD6
